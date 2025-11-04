@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1761624086 source:c:\users\24005959\downloads\q2\main.cpp
+	<iostream>
+	"dayType.h"
+
+1761624064 c:\users\24005959\downloads\q2\include\daytype.h
+	<string>
+	<iostream>
+
